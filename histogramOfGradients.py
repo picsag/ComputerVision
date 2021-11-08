@@ -23,3 +23,7 @@ def histogramOfGradients(img):
     hist = np.sqrt(hist)
     hist /= cv2.norm(hist) + eps
     return hist
+
+if __name__ == "__main__":
+    img = None
+    hist = histogramOfGradients(img)
