@@ -14,3 +14,9 @@ then use in Power Shell the following command: <br />
 `
 Set-ExecutionPolicy Unrestricted -Scope Process
 `
+
+## Histogram of Gradients
+The histogram of gradients for windows of 8 by 8 pixles are computed using the fuction <br />
+`
+histogramOfGradients
+`
