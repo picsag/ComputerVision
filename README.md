@@ -18,5 +18,11 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 ## Histogram of Gradients
 The histogram of gradients for windows of 8 by 8 pixles are computed using the fuction <br />
 `
-histogramOfGradients
+histogramOfGradients.py
+`
+
+## Simple fully connected neural network
+A neural network for performing binary classification on a didactical dataset. <br />
+`
+simpleNN.py
 `

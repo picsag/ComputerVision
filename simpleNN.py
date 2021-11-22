@@ -1,11 +1,6 @@
 import numpy as np
 from keras.models import Sequential
-from keras.models import Model
 from keras.layers import Dense
-from keras import backend as K
-import tensorflow as tf
-
-model = Sequential()
 
 """
 For a problem of binary classification, the “pima-indians-diabetes” dataset will be used.

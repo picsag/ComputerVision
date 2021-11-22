@@ -2,3 +2,4 @@ numpy
 opencv-python
 npm
 azure-functions
+tensorflow
